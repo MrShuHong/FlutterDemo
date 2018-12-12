@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlutterInAndroid.iml" filepath="$PROJECT_DIR$/FlutterInAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flutter_module/.android/Flutter/flutter.iml" filepath="$PROJECT_DIR$/../flutter_module/.android/Flutter/flutter.iml" />
+      <module fileurl="file://D:/Android/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-2.1.4/android/fluttertoast.iml" filepath="D:/Android/flutter/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-2.1.4/android/fluttertoast.iml" />
+    </modules>
+  </component>
+</project>
